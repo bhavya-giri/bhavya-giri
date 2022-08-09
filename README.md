@@ -1,5 +1,5 @@
 ## hey there 
-</ br>
+<br>
 hi, i'm Bhavya Giri, an aspiring self-taught web developer.
 
 i am using open source to document my journey and contributing. see around soon!
