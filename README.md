@@ -1,29 +1,27 @@
-<h1 align="center">Hi 👋, I'm Bhavya Giri</h1>
-<h3 align="center">Figuring out machine learning!</h3>
+### Bhavya Giri
 
-- 🔭 I’m currently working on [retrieving-memes](https://github.com/bhavya-giri/retrieving-memes)
+MLOps/AI Engineer at [relevaince.ai](https://relevaince.ai). Exploring GPU programming, kernel optimization, and writing C++ on the side.
 
-- 🌱 I’m currently learning **NLP with 🤗 Transformers**
+#### now
 
-- 📝 I regularly write articles on [soon](soon)
+- building ML infrastructure — training pipelines, model serving, deployment on k8s
+- learning CUDA — writing custom kernels for transformer inference
+- reading about computer architecture and parallel computing
 
-- 💬 Ask me about **Pytorch,🤗 Transformer, Fast.ai**
+#### projects
 
-- 📫 How to reach me **bhavya.giri44@gmail.com**
+| | | |
+|---|---|---|
+| `2026` | [cuda-kernels](https://github.com/bhavyagiri/cuda-kernels) | custom CUDA kernels for transformer inference — fused attention, quantized GEMM |
+| `2025` | [mlops-pipeline](https://github.com/bhavyagiri/mlops-pipeline) | end-to-end ML pipeline with automated training, evaluation, and deployment |
+| `2025` | [gpu-bench](https://github.com/bhavyagiri/gpu-bench) | benchmarking suite for GPU memory bandwidth and compute throughput |
+| `2024` | [vector-db](https://github.com/bhavyagiri/vector-db) | lightweight vector database with HNSW indexing and CUDA-accelerated search |
+| `2024` | [model-serving](https://github.com/bhavyagiri/model-serving) | high-throughput model serving with dynamic batching and TensorRT |
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+#### connect
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhavyagiri_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavyagiri_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhavya-giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavya-giri" height="30" width="40" /></a>
-<a href="https://kaggle.com/bhavyagiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhavyagiri" height="30" width="40" /></a>
-</p>
+[twitter](https://x.com/bhavyagiri_) · [linkedin](https://linkedin.com/in/bhavyagiri) · [email](mailto:hi@bhavyagiri.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-giri&layout=compact&theme=radical" />
-
-
-
+<sub>// this readme runs on 1 thread. not optimal.</sub>
