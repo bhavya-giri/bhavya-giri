@@ -20,7 +20,7 @@ MLOps/AI Engineer at [relevaince.ai](https://relevaince.ai). Exploring GPU progr
 
 #### connect
 
-[twitter](https://x.com/bhavyagiri_) · [linkedin](https://linkedin.com/in/bhavyagiri) · [email](mailto:hi@bhavyagiri.com)
+[bhavyagiri.com](https://bhavyagiri.com) · [twitter](https://x.com/bhavyagiri_) · [linkedin](https://linkedin.com/in/bhavyagiri) · [email](mailto:hi@bhavyagiri.com)
 
 ---
 
